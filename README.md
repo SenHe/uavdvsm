@@ -5,3 +5,5 @@ There are some differences between the model used in the paper and this reposito
 ## The Model Architecture:
 ![picture](archi.png)
 The model is trained on Salicon database.
+## Synthetic data and annotation
+[synthetic_data](https://drive.google.com/drive/folders/1wrdG1O5WgGl_ReoX5VGLKtroCuvzx2tv?usp=sharing) 
