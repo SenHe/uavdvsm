@@ -13,7 +13,7 @@ All the data annotation is done by myself using [labelme](https://github.com/wke
 ### Data link
 [synthetic_data](https://drive.google.com/drive/folders/1wrdG1O5WgGl_ReoX5VGLKtroCuvzx2tv?usp=sharing)  
 [OSIE-SR](https://drive.google.com/open?id=15iWBfNwktSq6KsNtAU1KRn0N3kVSOWHh)  
-The segmentationclass folder contains the semantic level masks for each salient regions in the image,and the segmentationobject folder contains the instance level masks for each salient regions in the image.  
+The SegmentationClass folder contains the semantic level masks for each salient regions in the image,and the SegmentationObject folder contains the instance level masks for each salient regions in the image.  
 ### indexing in semantic mask
 1:person head, 10:person part, 16:animal head, 22:animal part, 27:object, 37:text, 46:symbol, 51:vehicle, 57: food, 63:plant, 68:drink, 73:other
 ### Some data examples:  
