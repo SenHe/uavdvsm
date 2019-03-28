@@ -4,7 +4,7 @@ This is the demo of code, model and methods used in my CVPR 2019 paper ([link](h
 There are some differences between the model used in the paper and this repository, the model used in the paper is implemented in Tensorflow and the model in this repository is implemented in Pytorch(0.4.1).
 ## The Model Architecture:
 ![picture](archi.png)
-The model is trained on Salicon database.  
+The model is trained on [Salicon database](http://salicon.net).  
 Some saliency prediction examples on OSIE data  
 ![picture](sal_map.png)
 ## Synthetic data and annotation
