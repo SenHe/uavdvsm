@@ -6,4 +6,8 @@ There are some differences between the model used in the paper and this reposito
 ![picture](archi.png)
 The model is trained on Salicon database.
 ## Synthetic data and annotation
-[synthetic_data](https://drive.google.com/drive/folders/1wrdG1O5WgGl_ReoX5VGLKtroCuvzx2tv?usp=sharing) 
+### Data annotation
+All the data annotation is done by myself using [labelme](https://github.com/wkentaro/labelme)
+### Data link
+[synthetic_data](https://drive.google.com/drive/folders/1wrdG1O5WgGl_ReoX5VGLKtroCuvzx2tv?usp=sharing)  
+[OSIE-SR](https://drive.google.com/open?id=15iWBfNwktSq6KsNtAU1KRn0N3kVSOWHh)
