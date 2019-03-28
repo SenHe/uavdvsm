@@ -15,4 +15,5 @@ All the data annotation is done by myself using [labelme](https://github.com/wke
 [OSIE-SR](https://drive.google.com/open?id=15iWBfNwktSq6KsNtAU1KRn0N3kVSOWHh)  
 The segmentationclass folder contains the semantic level masks for each salient regions in the image,and the segmentationobject folder contains the instance level masks for each salient regions in the image.  
 Some data examples:  
-![picture](se1.jpg) ![picture](se2.jpg) ![picture](se3.jpg)
+<img src="se1.jpg" width="280" height="200" /><img src="se2.jpg" width="280" height="200" /><img src="se3.jpg" width="280" height="200" />  
+<img src="in1.jpg" width="280" height="200" /><img src="in2.jpg" width="280" height="200" /><img src="in3.jpg" width="280" height="200" />
