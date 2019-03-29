@@ -19,3 +19,5 @@ The SegmentationClass folder contains the semantic level masks for each salient 
 ### Some data examples:  
 <img src="se1.jpg" width="280" height="200" /><img src="se2.jpg" width="280" height="200" /><img src="se3.jpg" width="280" height="200" />  
 <img src="in1.jpg" width="280" height="200" /><img src="in2.jpg" width="280" height="200" /><img src="in3.jpg" width="280" height="200" />
+## Representation in different backbones
+Here we report the representation in different backbones after fine-tuning  
