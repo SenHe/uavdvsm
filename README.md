@@ -20,4 +20,7 @@ The SegmentationClass folder contains the semantic level masks for each salient 
 <img src="se1.jpg" width="280" height="200" /><img src="se2.jpg" width="280" height="200" /><img src="se3.jpg" width="280" height="200" />  
 <img src="in1.jpg" width="280" height="200" /><img src="in2.jpg" width="280" height="200" /><img src="in3.jpg" width="280" height="200" />
 ## Representation in different backbones
-Here we report the representation in different backbones after fine-tuning  
+Here we report the representation in different backbones (resnet-18) after fine-tuning  
+![picture](res_sta.png)  
+Comparison of the activation map in vgg-16 and resnet-18 after fine-tuning  
+![picture](res_vgg.png)  
