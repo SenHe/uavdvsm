@@ -22,5 +22,5 @@ The SegmentationClass folder contains the semantic level masks for each salient 
 ## Representation in different backbones
 Here we report the representation in different backbones (resnet-18) after fine-tuning  
 ![picture](res_sta.png)  
-Comparison of the activation map in vgg-16 and resnet-18 after fine-tuning  
-![picture](res_vgg.png)  
+Comparison of the activation map in vgg-16 and resnet-18 after fine-tuning, top row is the image and activation maps from vgg-16 after fine-tuning, bottom row is the groud truth saliency map and activation maps from resnet-18 after fine-tuning  
+![picture](res_vgg.png)
