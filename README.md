@@ -27,10 +27,10 @@ Comparison of the activation map in vgg-16 and resnet-18 after fine-tuning, top 
 
 **cite** If you find this code useful in your research, please consider citing:
 
-@inproceedings{he2019understanding,
-  title={Understanding and Visualizing Deep Visual Saliency Models},
-  author={He, Sen and Tavakoli, Hamed R and Borji, Ali and Mi, Yang and Pugeault, Nicolas},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={10206--10215},
-  year={2019}
-}
+    @inproceedings{he2019understanding,
+        title={Understanding and Visualizing Deep Visual Saliency Models},
+        author={He, Sen and Tavakoli, Hamed R and Borji, Ali and Mi, Yang and Pugeault, Nicolas},
+        booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+        pages={10206--10215},
+        year={2019}
+    }
