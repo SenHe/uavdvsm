@@ -24,3 +24,13 @@ Here we report the representation in different backbones (resnet-18) after fine-
 ![picture](res_sta.png)  
 Comparison of the activation map in vgg-16 and resnet-18 after fine-tuning, top row is the image and activation maps from vgg-16 after fine-tuning, bottom row is the groud truth saliency map and activation maps from resnet-18 after fine-tuning  
 ![picture](res_vgg.png)
+
+If you find this code useful in your research, please consider citing:
+
+@inproceedings{he2019understanding,
+  title={Understanding and Visualizing Deep Visual Saliency Models},
+  author={He, Sen and Tavakoli, Hamed R and Borji, Ali and Mi, Yang and Pugeault, Nicolas},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={10206--10215},
+  year={2019}
+}
