@@ -24,6 +24,14 @@ Here we report the representation in different backbones (resnet-18) after fine-
 ![picture](res_sta.png)  
 Comparison of the activation map in vgg-16 and resnet-18 after fine-tuning, top row is the image and activation maps from vgg-16 after fine-tuning, bottom row is the groud truth saliency map and activation maps from resnet-18 after fine-tuning  
 ![picture](res_vgg.png)
+## training saliency prediction model
+you need to first set up your own image path and the binary fixation map path in the code.
+### in pytorch (preferred)
+    python sal_train_pt.py
+### in tensorflow
+download the imagenet pretrained weight [here](https://drive.google.com/drive/u/0/folders/1IeBaSsJo-lcs6brKZt0mPfKXrKN6cYM0)
+
+    python sal_train_tf.py
 
 ## Citation
 
