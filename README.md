@@ -28,7 +28,7 @@ Comparison of the activation map in vgg-16 and resnet-18 after fine-tuning, top 
 you need to first set up your own image path and the binary fixation map path in the code.
 ### in pytorch (preferred)
     python sal_train_pt.py
-### in tensorflow
+### in tensorflow (Not sure the exact version, the original code was written in 2018)
 download the imagenet pretrained weight [here](https://drive.google.com/drive/u/0/folders/1IeBaSsJo-lcs6brKZt0mPfKXrKN6cYM0)
 
     python sal_train_tf.py
